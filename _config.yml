@@ -5,7 +5,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://santiagogil.github.io/starter/'
   relativeLinks: 'http://santiagogil.github.io/starter/links.jsonp'
-  media: 'media'
+  media: ''
   metadata:
     _posts:
       - name: "category"
